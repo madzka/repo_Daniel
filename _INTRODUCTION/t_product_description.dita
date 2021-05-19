@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_product_description">
+    <title>PRODUCT DESCRIPTION</title>
+    <shortdesc>This documentation shows how to get started with the process of writing, publishing
+        and designing your first documentation.</shortdesc>
+    <taskbody>
+        <context>
+            <p> To complete this process, read through the material on this page including a PDF
+                file which is the step-by-step documentation presenting the development of process
+                documentation. This documentation is a simple document describing the way how my
+                documentation came to be at a granular level, and helps you achieve the same
+                outputs. I guide you through the whole process of using advanced tools, mainly
+                oXygen and GitHub Pages, while writing documentation. The website describes all
+                tools used in the documentation process as well as all steps which are necessary to
+                do before you start writing. The PDF file is the final product which will support
+                you during the writing process, and is available to download. Using this
+                documentation you are able to create your own documentation. </p>
+            <p>So, let’s get started!</p>
+        </context>
+    </taskbody>
+</task>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_tools_for_documentation_process">
+    <title>TOOLS FOR DOCUMENTATION PROCESS</title>
+    <shortdesc>Here you can find the list of tools used in this documentation with the short
+        description of its purpose and use.</shortdesc>
+    <taskbody>
+        <context><b>General purpose tools</b><p>There are countless collaborative tools for software
+                development teams. Those can help to state requirements, share information, and
+                document features and processes:</p></context>
+        <steps>
+            <step>
+                <cmd><b>ATLASSIAN CONFLUENCE</b>.</cmd>
+                <info>
+                    <b>CONFLUENCE</b> is the project tool I used during my studies where I could
+                    manage product requirements and writing documentation. It is the remote
+                    workspace where one can collaborate, create and share ideas, documents and many
+                    more with other teams. You are also able to assign tasks to specific users or
+                    group, leave comments and share your knowledge. </info>
+            </step>
+            <step>
+                <cmd><b>ATLASSIAN JIRA</b></cmd>
+                <info>
+                    <lines id="lines_n44_pm5_4pb"><b>JIRA</b> is the workspace where I created my documentation plan, presented my persona, outputs and styleguide, as well as I uploaded the links to my final project. Then it was assigned to my project supervisor and reviewed by him. Below you can find the screenshot of JIRA board. There you find SPRINTs which show the present status of your project, to do list, reviewed files and completed documents. JIRA is an easy tool for perfect communication between people who work in a team, you share your documentation with your team and get feedback. </lines>
+                    <p>
+                        <fig id="fig_ssv_1mx_ppb">
+                            <title>JIRA workspace</title>
+                            <image
+                                href="../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/jira.jpg"
+                                id="image_tsv_1mx_ppb" width="500"/>
+                        </fig>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd><b>oXygen XML EDITOR + DITA</b></cmd>
+                <info>My documentation is written in oXygen XML Editor where I was able to create
+                    high-quality tech documentation. Using oXygen XML Editor I can build, organize
+                    and manage my documentation easily. My documentation is written in structured
+                    mark-up language such as XML. I also used <i>DITA</i> which is an XML standard,
+                    an architectural approach, and a writing methodology, developed by technical
+                    communicators for technical communicators. It provides a standardised
+                    architectural freamwork for a common structure for content that promotes the
+                    consistent creation, sharing, and re-use of content. More information about DITA
+                    you can find on <xref
+                        href="https://www.oxygenxml.com/doc/versions/23.1/ug-editor/topics/author-dita.html"
+                        format="html" scope="external"/>. </info>
+            </step>
+            <step>
+                <cmd><b>GitHub PAGES</b></cmd>
+                <info> GitHub <xref href="https://github.com/" format="html" scope="external"/> is a
+                    hosting website which provides free hosting for open source programs and private
+                    repositories. My documentation is uploaded there and available to read and
+                    share. In addition, GitHub provides a service called <b>GitHub Pages</b> for
+                    quickly creating static web pages. </info>
+            </step>
+            <step>
+                <cmd><b>Lightshot</b></cmd>
+                <info>
+                    <lines id="lines_qrg_tm5_4pb">This is an application I used to capture screenshots of  selected area which you can see in the texts. It is available at <xref href="https://app.prntscr.com/en/" format="html" scope="external"/></lines>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Grammarly</b></cmd>
+                <info>
+                    <p>It is a tool which helps to write with clarity. It detects spelling,
+                        punctuation, and other common errors in texts It also helps to detects
+                        correctly spelled words used in the wrong context. </p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

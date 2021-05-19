@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_creating_reference_topic">
+    <title>CREATING YOUR FIRST <i>REFERENCE TOPIC</i></title>
+    <shortdesc>This section shows how to create a new file <b> Reference Topic</b> in oXygen XML
+        Editor.</shortdesc>
+    <refbody>
+        <section id="section_bmf_zt2_qpb">
+            <p>To create <b>Concept Topic</b> right-click on the <b>Project Folder</b> (created at
+                the beginning) for options and select <b>New</b> → <b>File</b> → <b>Reference</b>.
+                Now add a <b>Title</b> of the <b>Reference file</b> and <b>File name</b>. <ph>Click
+                        <b>Create</b> button.</ph></p>
+        </section>
+        <example>
+            <p>
+                <note id="note_bxt_tnh_npb">When name the <b>File name</b> add <b>'r_'</b> at the
+                    beginning of <b>File name</b>. <b>'r_'</b> means <b>Reference</b>It helps to
+                    know which topic is for Reference <b>'r_'</b>.</note>
+            </p>
+        </example>
+        <example><p><b>Adding a table</b></p><ph>Place the cursor inside an element in Author mode
+                and press <b>Enter</b> and next select <b>Table</b>. Add some information in
+                    <b>Description &lt;desc></b> and add <b>Entry</b> in the table.</ph></example>
+        <table frame="all" id="table_op2_dj3_npb">
+            <title>My first table</title>
+            <desc>This is a table in Reference Topic</desc>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <thead>
+                    <row>
+                        <entry>Content 1</entry>
+                        <entry> Content 2</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1 A</entry>
+                        <entry>1 A</entry>
+                    </row>
+                    <row>
+                        <entry>2 B</entry>
+                        <entry>2 B</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <example id="example_ow4_wk3_npb">
+            <p><b>Adding a picture</b></p>
+            <ol id="ol_qdv_zl3_npb">
+                <li>
+                    <p>Create an <b>IMAGES</b> folder in the Project . The <b>IMAGES</b> folder
+                        should contain all your images. </p>
+                    <note id="note_osq_bzx_ppb" type="notice">Add images to the folder on your hard
+                        disk.</note>
+                </li>
+                <li>
+                    <p>Place the cursor inside an element in Author mode and press <b>Enter</b> and
+                        next select <b>Image</b>. Then, choose the <b>image location</b> , add
+                            <b>Figure title</b>, and set up a<b> size </b>and click
+                        <b>Insert.</b>.</p>
+                </li>
+            </ol>
+        </example>
+        <example id="example_np5_rm3_npb">
+            <fig id="fig_dcw_sm3_npb">
+                <title>Adding a picture</title>
+                <image href="../../IMAGES/picture_insert.jpg" id="image_ecw_sm3_npb"/>
+            </fig>
+        </example>
+        <example>
+            <p>The picture should look as the example below.</p>
+        </example>
+        <example id="example_egc_2m3_npb">
+            <fig id="fig_d3h_mm3_npb">
+                <title>Moon</title>
+                <image href="../../IMAGES/moon.jpg.jpg" width="200" height="200"
+                    id="image_e3h_mm3_npb"/>
+            </fig>
+        </example>
+        <section id="section_hh3_3s3_npb">
+            <title>Notes</title>
+            <p>A <codeph><b>&lt;note></b></codeph> element contains information that expands on or
+                calls attention to a particular point. This information is typically differentiated
+                from the main text. To set <b>Attributes</b> go to Author mode and press <b>Enter
+                </b> inside an element and select <b>Note</b> element. On the right you see
+                    <b>Attribute</b>box with different attributes. Scroll down and choose the
+                attribute <b>Type</b> and set the <b>Value</b> by clicking on the <b>Value</b>
+                place. </p>
+            <p>See <xref
+                    href="https://www.oxygenxml.com/dita/1.3/specs/langRef/attributes/thetypeattribute.html"
+                    format="html" scope="external">The type attribute</xref> for more detailed
+                information on values.<fig id="fig_zrn_tw3_npb">
+                    <title>NOTES Attributes</title>
+                    <image href="../../IMAGES/notes%20attributes.jpg" id="image_asn_tw3_npb"
+                        width="700" height="300"/>
+                </fig></p>
+            <p>Here are examples of <b>Notes</b></p>
+            <note id="note_vmg_ks3_npb">This is a standard note.</note>
+            <note type="attention">This is an aexample of <i><b>attention</b></i> note</note>
+            <note id="note_ysf_wv3_npb" type="caution">This is an aexample of <i><b>caution</b></i>
+                note</note>
+            <note id="note_d2r_xv3_npb" type="danger">This is an aexample of <i><b>danger</b></i>
+                note</note>
+            <note id="note_rp2_yv3_npb" type="fastpath">This is an aexample of
+                    <i><b>fastpath</b></i> note</note>
+            <note id="note_lrs_yv3_npb" type="important">This is an aexample of
+                    <i><b>important</b></i> note</note>
+            <note id="note_ugj_zv3_npb" type="notice">This is an aexample of <i><b>notice</b></i>
+                note</note>
+            <note id="note_pzm_1w3_npb" type="remember">This is an aexample of
+                    <i><b>remember</b></i> note</note>
+            <note id="note_hyz_1w3_npb" type="warning">This is an aexample of <i><b>warning</b></i>
+                note</note>
+        </section>
+    </refbody>
+</reference>

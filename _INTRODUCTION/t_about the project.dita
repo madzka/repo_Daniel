@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_author">
+    <title>MY GRADUATE PROJECT</title>
+    <titlealts>
+        <navtitle>MY GRADUATE PROJECT</navtitle>
+    </titlealts>
+    <taskbody>
+        <context>This is my graduate project written in oXygen tool and uploaded to GitHub Pages.
+            This is the link where you can find the repository of this project.<ph><xref
+                    href="https://github.com/madzka/docs-about-the-docs" format="html"
+                    scope="external"/></ph><p> The purpose of this documentation is to show for
+                future students what they can achieve and learn during Technical Communication
+                studies as well as the steps one has to take in order to produce techncial
+                documentation. . It contains resources as well as information every student should
+                have in order to complete their Graduate Project by applying the knowledge and
+                skills gained in the program. This documentation shows the process of documentation
+                development. </p><p>This is the final project which presents the result of Technical
+                Communications studies at Vistula University in Warsaw. You can find more info about
+                this postgraduate studies at <xref
+                    href="https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna"
+                    format="html" scope="external"/></p><p>This documentation was created by
+                Magdalena O. </p></context>
+    </taskbody>
+    <task id="task_xv3_twb_qpb">
+        <title>WHY oXygen AND DITA IN MY PROCESS OF DOCUMENTATION</title>
+        <shortdesc> During my studies I have worked with oXygen XML Editor, MadCap Flare and
+            Markdown as well as GitHub . Those are the main tools I should be able to know and work
+            with. It must be stated that I have never worked as a technical writer and never used
+            any tools regarding technical writing. </shortdesc>
+        <taskbody>
+            <context id="context_bvj_myb_qpb">As you can find in the definiton taken from the
+                official website <ph><cite><ph>Oxygen XML Editor is the complete XML editing
+                            solution, both for XML developers and content authors. It provides must
+                            have tools for XML editing, covering most XML standards and
+                            technologies. Oxygen XML Editor includes all the features of Oxygen XML
+                            Developer and Author</ph><ph><xref
+                                href="https://www.oxygenxml.com/xml_editor.html" format="html"
+                                scope="external"/></ph></cite> it ia an XML tool that supports all
+                    of the XML schema languages and provides a large variety of powerful tools for
+                    editing and publishing XML documents. I have used this tool because it has been
+                    a very easy tool to understand and it took me 2 weeks to understand it. I have
+                    generated PDF file and HTML output with oXygen XML Editor. I have also used DITA
+                    which is an XML standard/an architecture. Shortly speaking, it is a type of XML
+                    for technical writing that helps to structure, develop , manage and publish
+                    content, and oXygen XML Editor makes it easy to create and edit.</ph><p>I feel
+                    very comfortable while writing the documentation in oXygen and DITA. The most
+                    important fact for me is the WYSIWYG method. On the left side I see all topic I
+                    generated and it is easy to open, edit and manage. Additionally, DITA is divided
+                    into two main units of authoring: topics and maps so it simplify the structure
+                    of writing. I know what write in which place. Below there is a table presenting
+                    the structure of DITA Topics I have followed.</p><table frame="all"
+                    id="table_z3k_l5m_mpb">
+                    <title>DITA TOPICS</title>
+                    <tgroup cols="2">
+                        <colspec colname="c1" colnum="1"/>
+                        <colspec colname="c2" colnum="2"/>
+                        <thead>
+                            <row>
+                                <entry>DITA TOPICS TYPES</entry>
+                                <entry>What are they good for?</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Concept Topic</entry>
+                                <entry>Good for background information, explaining about something ,
+                                    product description, instructions and definitions</entry>
+                            </row>
+                            <row>
+                                <entry>Task Topic</entry>
+                                <entry>Good for step-by-step instructions, any procedural
+                                    instructions</entry>
+                            </row>
+                            <row>
+                                <entry>Reference Topic</entry>
+                                <entry>Good for specifications about the subjects, tables, bulleted
+                                    list.</entry>
+                            </row>
+                            <row>
+                                <entry>Glossentry Topic: </entry>
+                                <entry>Good for defining tems</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table><note id="note_ql3_cnc_qpb" type="notice">Below I present the outputs you
+                    are expected to create after reading this User guide.</note></context>
+        </taskbody>
+    </task>
+</task>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_my_first_project">
+    <title>CREATING YOUR FIRST <i>PROJECT</i></title>
+    <shortdesc>This section shows how to start a project in oXygen XML Editor.</shortdesc>
+    <taskbody>
+        <context>This quick guide presents how to write an XML document in a newly created project
+            within the oXygen tool.<ol id="steps_byt_v5f_mpb">
+                <li>To start your first document you have to create <b>New Project</b>. To create a
+                    new project click <b>New Project</b> on <b>Welcome</b> box <p/><note
+                        id="note_xhr_r1y_ppb" type="attention">If you do not have <b>Welcome</b>
+                        box, click on <b>Help</b> → <b>Welcome</b>
+                    </note><p/><p>
+                        <fig id="fig_mkf_ntf_mpb">
+                            <title>Figure: New Project</title>
+                            <image href="../../IMAGES/Screenshot_6.jpg" width="20cm" height="10cm"
+                                id="image_nkf_ntf_mpb"/>
+                        </fig>
+                    </p></li>
+                <li>Now choose a project template, for starters, leave Deafault project template.
+                    Next, specify the name of the new project file and choose the project directory
+                    (localization of the project). Click <b>Choose</b> and <b>Create</b>. <p>
+                        <fig id="fig_w5h_3xf_mpb">
+                            <title>Project File Name</title>
+                            <image href="../../IMAGES/Screenshot_7.jpg" width="15cm" height="8cm"
+                                id="image_y5h_3xf_mpb"/>
+                        </fig>
+                    </p></li>
+                <li>Your <b>Project Folder</b> is created and ready to build. <p>
+                        <fig id="fig_xq1_txf_mpb">
+                            <title>New Project Folder</title>
+                            <image href="../../IMAGES/Screenshot_8.jpg" width="12cm" height="7cm"
+                                id="image_yq1_txf_mpb"/>
+                        </fig>
+                    </p></li>
+                <li>Next you have to create <b>TOPICS Folder</b> where you keep all DITA Topic
+                    Types. Right-click PROJECT NAME and choose <b>New</b> → <b>Folder</b> →
+                        <b>Folder name: TOPICS</b> →<b> OK</b>. This is the Folder for DITA Topics.<p>
+                        <fig id="fig_knj_zxf_mpb">
+                            <title>New TOPICS Folder</title>
+                            <image href="../../IMAGES/Screenshot_9.jpg" width="12cm" height="2cm"
+                                id="image_lnj_zxf_mpb"/>
+                        </fig>
+                    </p><p>
+                        <fig id="fig_ejm_2yf_mpb">
+                            <title>TOPICS Folder</title>
+                            <image href="../../IMAGES/Screenshot_10.jpg" width="9cm" height="5cm"
+                                id="image_fjm_2yf_mpb"/>
+                        </fig>
+                    </p><p>
+                        <fig id="fig_mcv_3yf_mpb">
+                            <title>TOPICS</title>
+                            <image href="../../IMAGES/Screenshot_11.jpg" width="9cm" height="2cm"
+                                id="image_ncv_3yf_mpb" class="- topic/image "/>
+                        </fig>
+                    </p></li>
+                <li>To keep images you need to create another Folder for IMAGES. It is the same way
+                    as TOPICS. Right-click the project PROJECT NAME and choose <b>New</b> →
+                        <b>Folder</b> → <b>Folder name: IMAGES</b> → <b>OK</b>. </li>
+                <li>Creating a DITA Topic in Oxygen XML Editor<p>Right-click the TOPIC Folder,
+                        select <b>New </b>→<b> File </b>→<b> Concept </b>→<b> Ttitle</b> →<b> File
+                            name </b>→<b> Create </b></p><p/><p>
+                        <note id="note_xtg_1mg_mpb">When name the <b>File neme</b> add “c_” at the
+                            beginning of your file name. <b>'c_'</b> means <b>Concept</b></note>
+                    </p><p/><p>
+                        <fig id="fig_gl3_jlg_mpb">
+                            <title>New File TOPIC</title>
+                            <image href="../../IMAGES/new%20file.jpg" id="image_hl3_jlg_mpb"/>
+                        </fig>
+                    </p><p>
+                        <fig id="fig_prb_vlg_mpb">
+                            <image href="../../IMAGES/Screenshot_1.jpg" width="10cm" height="10cm"
+                                id="image_ykv_vlg_mpb"/>
+                        </fig>
+                    </p></li>
+                <li>Add some text to the Concept. Inster the cursor in the <b>p</b> element and
+                    press <b>Enter</b>. oXygen shows you which elements you can place in the current
+                    position <p>
+                        <fig id="fig_lx2_brg_mpb">
+                            <title>Adding some text to Concept</title>
+                            <image href="../../IMAGES/Screenshot_12.jpg" width="10cm" height="4cm"
+                                id="image_mx2_brg_mpb"/>
+                        </fig>
+                    </p><p><b>Concept elements often used</b>
+                    </p><ul id="ul_ukg_ccy_ppb">
+                        <li>
+                            <p>Sections &lt;section>: Includes &lt;title></p>
+                        </li>
+                        <li>
+                            <p>Paragraphs &lt;p></p>
+                        </li>
+                        <li>
+                            <p>Lists: unordered &lt;ul>, ordered &lt;ol>, definition lists
+                                &lt;dl></p>
+                        </li>
+                        <li>
+                            <p>Tables &lt;table></p>
+                        </li>
+                        <li>
+                            <p>Images &lt;fig> or &lt;image></p>
+                        </li>
+                        <li>
+                            <p>Code blocks &lt;codeblock></p>
+                        </li>
+                        <li>
+                            <p>Code phrases &lt;codeph></p>
+                        </li>
+                        <li>
+                            <p>Phrases &lt;ph>,keywords &lt;keyword> and terms &lt;term></p>
+                        </li>
+                    </ul></li>
+            </ol></context>
+    </taskbody>
+</task>

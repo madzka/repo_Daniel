@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_oxygen_setup">
+    <title>WORKING WITH DOCUMENTS</title>
+    <shortdesc>Setting up the oXygen Preferences</shortdesc>
+    <taskbody>
+        <context>Before you start using oXygen XML Editor you have to setup the Editor options using
+            the <b>Preferences</b><p><b>Configuration</b></p></context>
+        <steps>
+            <step>
+                <cmd>To open the preferences dialog box, go to <b>Options</b>→
+                    <b>Preferences</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Go to <b>Editor</b>section and activate the <i>Whitespaces</i> options </cmd>
+            </step>
+            <step>
+                <cmd>In <b>Editor</b>section go to <b>Edit Modes</b>→ <b>Text</b> and select <b>Show
+                        print margin</b>and <b>Line wrap</b></cmd>
+            </step>
+            <step>
+                <cmd>Next go to <b>Editor</b> → <b>Format </b>and select <b>Format and ident the
+                        document on open</b></cmd>
+            </step>
+            <step>
+                <cmd>Now go to <b>Full tags</b>options and select <b>Full Tags</b></cmd>
+                <info><fig id="fig_jls_qfv_4pb">
+                        <title>Full Tags Options</title>
+                        <image
+                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/full%20tags.jpg"
+                            id="image_kls_qfv_4pb"/>
+                    </fig><ph>Now you can see tags in the author view</ph><fig id="fig_x1z_hgv_4pb">
+                        <title>Tags in the author view</title>
+                        <image
+                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/tags.jpg"
+                            id="image_y1z_hgv_4pb" width="350"/>
+                    </fig></info>
+            </step>
+            <step>
+                <cmd>Remember to save your changes during writing. A star <b>*</b> in the Editor tab
+                    indicates unsaved changes. </cmd>
+                <info>
+                    <fig id="fig_spq_tgv_4pb">
+                        <title>Unsaved changes</title>
+                        <image
+                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/unsaved%20changes.jpg"
+                            id="image_tpq_tgv_4pb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_dita_map">
+    <title>DITA MAP</title>
+    <shortdesc>This is the instruction how to create DITA Map</shortdesc>
+    <conbody>
+        <p>DITA Map organizes a set of topics into a hierarchy. The structure of the map presents
+            the structure of the table of contents. </p>
+        <p>Ws use DITA maps to:</p>
+        <ul id="ul_l3v_4qb_qpb">
+            <li>Include topics within an information set</li>
+            <li>Define the navigation between a set of topics</li>
+            <li>Creates relationships between topics</li>
+        </ul>
+        <p>Right-click your Project view and select <b>New </b> → <b>File</b></p>
+        <p>
+            <note id="note_dvk_npy_ppb" type="important">Create your DITA Map outside of the TOPICS
+                Folder. Click on the Project Folder.</note>
+        </p>
+        <p/>
+        <p>
+            <fig id="fig_htt_2jy_ppb">
+                <title>DITA Map</title>
+                <image
+                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/Dita%20Map.jpg"
+                    id="image_itt_2jy_ppb"/>
+            </fig>
+        </p>
+        <p>Now go to <b>Framework templates</b> → <b>DITA</b> → <b>Maps</b> and select <b>Map
+            </b>.</p>
+        <p>
+            <fig id="fig_qnh_xjy_ppb">
+                <title>DITA Maps</title>
+                <image
+                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20map%202.jpg"
+                    id="image_rnh_xjy_ppb"/>
+            </fig>
+        </p>
+        <p> Add a Title and click <b>Create</b>.</p>
+        <p><ph>After creating DITA Map you get the question <i>Where do you want the DITA map file
+                    to be opened?</i>
+            </ph><fig id="fig_upg_gry_ppb">
+                <title>DITA Maps Manager</title>
+                <image
+                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20maps%20editor.jpg"
+                    id="image_vpg_gry_ppb"/>
+            </fig></p>
+        <p>Choose whether you want to open the map in the <b>Editor</b> or in the DITA Maps Manager
+            . Opening it in the <b>DITA Maps Manager</b> is the best choice. The <b>DITA Maps
+                Manager</b> presents a view of the DITA map that is similar to a table of
+            contents.</p>
+        <p/>
+        <p>
+            <note id="note_yhy_lky_ppb" type="tip">Look below at the pictures to find the location
+                of your Project and DITA Map.</note>
+        </p>
+        <p>
+            <table frame="all" id="table_enr_tky_ppb">
+                <title>Project and DITA Map Location</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <thead>
+                        <row>
+                            <entry>PROJECT Location</entry>
+                            <entry> DITA Map Location</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><image
+                                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/Project%20view.jpg"
+                                    width="300px" height="300px" id="image_thg_zky_ppb"/></entry>
+                            <entry><image
+                                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/DITA%20MAp%20view.jpg"
+                                    width="300px" height="300px" id="image_sdm_1ly_ppb"/></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        <p>The table above presents the location of your Project Files and DITA Map File. When you
+            want to open Project files click on Project at the bottom, but when you want to open
+            DITA Map click on DITA Map Manager (marked red).</p>
+        <p><b>ELEMENTS YOU CAN ADD TO DITA Map</b></p>
+        <p><ph>Here you see the screenshot of DITA Map ELEMENTS</ph><fig id="fig_unl_pjb_qpb">
+                <title>DITA Map ELEMENTS</title>
+                <image
+                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/DITA%20Map%20view%202.jpg"
+                    id="image_vnl_pjb_qpb" width="650" height="300"/>
+            </fig></p>
+        <p><ph>This is the list of elements in DITA Map you can add</ph><ul id="ul_w1z_smy_ppb">
+                <li><b>Title</b> defines the title of your Project</li>
+                <li><b>Topic Meta </b> includes<i><b> author</b></i>, <b><i>copyright</i></b>,
+                            <b><i>critdates</i></b> and<b><i> prodinfo</i></b>
+                </li>
+                <li><b>Topic references</b> or <b>topicref </b> create the whole structure of the
+                    document that you want to deliver. The DITA map has a <b>topicref</b> element
+                    for each topic which are nested. See the picture below. </li>
+            </ul></p>
+        <p>
+            <note id="note_akq_cqb_qpb" type="remember">DITA Map has the extension .ditamap. <fig
+                    id="fig_nrr_jqb_qpb">
+                    <title>DITA Map EXTENSION</title>
+                    <image
+                        href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20map%20extension.jpg"
+                        id="image_orr_jqb_qpb"/>
+                </fig></note>
+        </p>
+    </conbody>
+    <concept id="concept_qbn_crb_qpb">
+        <title>TOPIC REFERENCES IN DITA Map</title>
+        <conbody>
+            <p>Add your Topics to DITA Map Manager using drag and drop option </p>
+            <p>Follow the steps to insert the topics </p>
+            <ol id="ol_qn5_rtb_qpb">
+                <li>Open the DITA Map you have created</li>
+                <li>Go to Project View (you have to be able to click on the topics)</li>
+                <li>Drag the Topic and Drop in the DITA Map </li>
+            </ol>
+            <p>See the pictures below and repeat this </p>
+            <p>
+                <table frame="all" id="table_qm4_g5c_qpb">
+                    <title>Drag and drop topics into the DITA Map</title>
+                    <tgroup cols="2">
+                        <colspec colname="c1" colnum="1"/>
+                        <colspec colname="c2" colnum="2"/>
+                        <thead>
+                            <row>
+                                <entry>DRAG A TOPIC</entry>
+                                <entry>DROP A TOPIC</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry><image
+                                        href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/drag.jpg"
+                                        width="400px" height="300px" id="image_cw2_35c_qpb"
+                                    /></entry>
+                                <entry><image
+                                        href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/drop.jpg"
+                                        width="400px" height="300px" id="image_c4n_j5c_qpb"
+                                    /></entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </conbody>
+    </concept>
+</concept>

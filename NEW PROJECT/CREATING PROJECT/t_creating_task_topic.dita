@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_creating_task_topic">
+    <title>CREATING YOUR FIRST <i>TASK TOPIC</i></title>
+    <shortdesc>This section shows how to create a new file <b>Task Topic</b> in oXygen XML
+        Editor.</shortdesc>
+    <taskbody>
+        <context>It presents the quick step-by-step guide. <p>To create <b>Task Topic</b>
+                right-click on the <b>Project Folder</b> (created at the beginning) for options and
+                select <b>New</b> → <b>File</b> → <b>Task</b>. Now add a <b>Title</b> of the <b>Task
+                    file</b> and <b>File name</b>. <ph>Click <b>Create</b> button.</ph></p><p/><note
+                id="note_mm2_bsh_npb">When name the <b>File name</b> add <b>'t_'</b> at the
+                beginning of <b>File name</b>. <b>'t_'</b> means <b>Task</b>It helps to know which
+                topic is for Task <b>'t_'</b></note><p/><p>
+                <fig id="fig_kcy_qvh_npb">
+                    <title>Creating Task Topic</title>
+                    <image href="../../IMAGES/Creating%20Task%20Topic.jpg" width="400" height="400"
+                        id="image_lcy_qvh_npb"/>
+                </fig>
+            </p><p><b>Adding the content</b></p><p><ph>In <b>Author</b> mode place the cursor
+                    between <b>p element</b> and press <b>Enter</b>. When you press <b>Enter</b>,
+                    Oxygen XML Editor shows you a list of elements you can use in this location.
+                    Choose the element you want to use and press <b>Enter</b> to insert the
+                    element.</ph></p><fig id="fig_r2d_c13_npb">
+                <p>
+                    <fig id="fig_zc5_313_npb">
+                        <title>Adding a context</title>
+                        <image href="../../IMAGES/Creating%20task.jpg" id="image_ad5_313_npb"/>
+                    </fig>
+                </p>
+            </fig><ph>A list of frequent elements used in <b>Task Topic</b></ph><ul
+                id="ul_pyj_fyh_npb">
+                <li>Prerequisites <b>&lt;prereq></b></li>
+                <li>Contextual information <b>&lt;context></b></li>
+                <li>Steps <b>&lt;steps></b></li>
+                <li>Results <b>&lt;result></b></li>
+                <li>Example <b>&lt;example></b></li>
+                <li>Post requisites <b>&lt;postreq></b></li>
+            </ul></context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_documentation_plan">
+    <title>DOCUMANTATION PLAN</title>
+    <shortdesc>How my documenation came to be.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The first step you should take is writing an outline of documentation plan which
+                presents the roadmap of the project and keeps the track of your process during the
+                realization. The main steps needed to follow are:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>PLAN</b>
+                    <ph>When planning your process it helps you to visualize the draft of the final
+                        project design. It also improve readability and clarity of your
+                        documentation. When doing my project I used JIRA to plan my steps in AGILE
+                        Project Management. It also made me to meet my deadlines. </ph>
+                </cmd>
+            </step>
+            <step>
+                <cmd><b>AUDIENCE</b><ph>This step helps you understand who is your audience. You
+                        have to define the persona you write to because it defines the target group
+                        of users. There are different online tools e.g.
+                        https://xtensio.com/how-to-create-a-persona/ which help you to create a
+                        persona with all details needed to target the user group and the content.
+                        This persona helps technical writers to set the relevant and customized
+                        content.</ph></cmd>
+            </step>
+            <step>
+                <cmd><b>STYLE</b> All documentations are written in a specific style guide. It is a
+                    set of standards for writing content which helps to maintain a consistent and
+                    plain style, voice and tone across your documentation. The style guide also
+                    provides general information about grammar and syntax to be used while writing
+                    technical documentation. I have chosen two styles of writing this documentation;
+                    the PDF file is written in more technical way with Google style guide available
+                    at <xref href="https://developers.google.com/style" format="html"
+                        scope="external"/>, and the website part is written in Microsoft style guide
+                    availabe at <xref href="https://docs.microsoft.com/en-us/style-guide/welcome/"
+                        format="html" scope="external"/></cmd>
+            </step>
+            <step>
+                <cmd><b>OUTLINE OF TOPICS</b>This part covers topics, and subtopics in your
+                    technical documentation. You should write a table of contents and try to list
+                    the main sections and subsections that you will write and describe</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
