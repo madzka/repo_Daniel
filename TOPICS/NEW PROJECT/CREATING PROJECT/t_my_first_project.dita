@@ -13,7 +13,7 @@
                     </note><p/><p>
                         <fig id="fig_mkf_ntf_mpb">
                             <title>Figure: New Project</title>
-                            <image href="../../IMAGES/Screenshot_6.jpg" width="20cm" height="10cm"
+                            <image href="../../../IMAGES/Screenshot_6.jpg" width="20cm" height="10cm"
                                 id="image_nkf_ntf_mpb"/>
                         </fig>
                     </p></li>
@@ -22,14 +22,14 @@
                     (localization of the project). Click <b>Choose</b> and <b>Create</b>. <p>
                         <fig id="fig_w5h_3xf_mpb">
                             <title>Project File Name</title>
-                            <image href="../../IMAGES/Screenshot_7.jpg" width="15cm" height="8cm"
+                            <image href="../../../IMAGES/Screenshot_7.jpg" width="15cm" height="8cm"
                                 id="image_y5h_3xf_mpb"/>
                         </fig>
                     </p></li>
                 <li>Your <b>Project Folder</b> is created and ready to build. <p>
                         <fig id="fig_xq1_txf_mpb">
                             <title>New Project Folder</title>
-                            <image href="../../IMAGES/Screenshot_8.jpg" width="12cm" height="7cm"
+                            <image href="../../../IMAGES/Screenshot_8.jpg" width="12cm" height="7cm"
                                 id="image_yq1_txf_mpb"/>
                         </fig>
                     </p></li>
@@ -38,19 +38,19 @@
                         <b>Folder name: TOPICS</b> →<b> OK</b>. This is the Folder for DITA Topics.<p>
                         <fig id="fig_knj_zxf_mpb">
                             <title>New TOPICS Folder</title>
-                            <image href="../../IMAGES/Screenshot_9.jpg" width="12cm" height="2cm"
+                            <image href="../../../IMAGES/Screenshot_9.jpg" width="12cm" height="2cm"
                                 id="image_lnj_zxf_mpb"/>
                         </fig>
                     </p><p>
                         <fig id="fig_ejm_2yf_mpb">
                             <title>TOPICS Folder</title>
-                            <image href="../../IMAGES/Screenshot_10.jpg" width="9cm" height="5cm"
+                            <image href="../../../IMAGES/Screenshot_10.jpg" width="9cm" height="5cm"
                                 id="image_fjm_2yf_mpb"/>
                         </fig>
                     </p><p>
                         <fig id="fig_mcv_3yf_mpb">
                             <title>TOPICS</title>
-                            <image href="../../IMAGES/Screenshot_11.jpg" width="9cm" height="2cm"
+                            <image href="../../../IMAGES/Screenshot_11.jpg" width="9cm" height="2cm"
                                 id="image_ncv_3yf_mpb" class="- topic/image "/>
                         </fig>
                     </p></li>
@@ -65,11 +65,11 @@
                     </p><p/><p>
                         <fig id="fig_gl3_jlg_mpb">
                             <title>New File TOPIC</title>
-                            <image href="../../IMAGES/new%20file.jpg" id="image_hl3_jlg_mpb"/>
+                            <image href="../../../IMAGES/new%20file.jpg" id="image_hl3_jlg_mpb"/>
                         </fig>
                     </p><p>
                         <fig id="fig_prb_vlg_mpb">
-                            <image href="../../IMAGES/Screenshot_1.jpg" width="10cm" height="10cm"
+                            <image href="../../../IMAGES/Screenshot_1.jpg" width="10cm" height="10cm"
                                 id="image_ykv_vlg_mpb"/>
                         </fig>
                     </p></li>
@@ -78,7 +78,7 @@
                     position <p>
                         <fig id="fig_lx2_brg_mpb">
                             <title>Adding some text to Concept</title>
-                            <image href="../../IMAGES/Screenshot_12.jpg" width="10cm" height="4cm"
+                            <image href="../../../IMAGES/Screenshot_12.jpg" width="10cm" height="4cm"
                                 id="image_mx2_brg_mpb"/>
                         </fig>
                     </p><p><b>Concept elements often used</b>

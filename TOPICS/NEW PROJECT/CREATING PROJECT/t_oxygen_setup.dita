@@ -26,13 +26,11 @@
                 <cmd>Now go to <b>Full tags</b>options and select <b>Full Tags</b></cmd>
                 <info><fig id="fig_jls_qfv_4pb">
                         <title>Full Tags Options</title>
-                        <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/full%20tags.jpg"
-                            id="image_kls_qfv_4pb"/>
+                        <image href="../../../IMAGES/full%20tags.jpg" id="image_kls_qfv_4pb"/>
                     </fig><ph>Now you can see tags in the author view</ph><fig id="fig_x1z_hgv_4pb">
                         <title>Tags in the author view</title>
                         <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/tags.jpg"
+                            href="../../../IMAGES/tags.jpg"
                             id="image_y1z_hgv_4pb" width="350"/>
                     </fig></info>
             </step>
@@ -43,7 +41,7 @@
                     <fig id="fig_spq_tgv_4pb">
                         <title>Unsaved changes</title>
                         <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/unsaved%20changes.jpg"
+                            href="../../../IMAGES/unsaved%20changes.jpg"
                             id="image_tpq_tgv_4pb"/>
                     </fig>
                 </info>

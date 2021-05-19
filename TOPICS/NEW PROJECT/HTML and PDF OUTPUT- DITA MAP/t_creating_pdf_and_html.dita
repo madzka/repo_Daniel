@@ -9,7 +9,7 @@
                     is outside the TOPICS<fig id="fig_th3_2c2_qpb">
                         <title>DITA Map Location</title>
                         <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20map%20place.jpg"
+                            href="../../../IMAGES/dita%20map%20place.jpg"
                             id="image_uh3_2c2_qpb"/>
                     </fig></note>
             </p><p>To publish a DITA Map as <b>WebHelp Responsive HTML5</b> output, follow these
@@ -17,13 +17,13 @@
         <steps>
             <step>
                 <cmd>Go to <b>Transformation Scenerios </b> on the right side. Click <image
-                        href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/plus.jpg"
+                        href="../../../IMAGES/plus.jpg"
                         id="image_jrk_m22_qpb"/> and select <b>DITA-OT transformation</b>. </cmd>
                 <info>
                     <fig id="fig_knn_qw2_qpb">
                         <title>DITA Transformation Scenerios</title>
                         <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20transformation.jpg"
+                            href="../../../IMAGES/dita%20transformation.jpg"
                             id="image_lnn_qw2_qpb"/>
                     </fig>
                 </info>
@@ -34,7 +34,7 @@
                     <fig id="fig_xyt_mw2_qpb">
                         <title>WebHelp Responsive</title>
                         <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/webhelp.jpg"
+                            href="../../../IMAGES/webhelp.jpg"
                             id="image_yyt_mw2_qpb"/>
                     </fig>
                 </info>
@@ -57,7 +57,7 @@
                             </ol>
                         </choption>
                         <chdesc><image
-                                href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/output%20scenerio.jpg"
+                                href="../../../IMAGES/output%20scenerio.jpg"
                                 id="image_fr1_cg2_qpb" height="300" width="400"/></chdesc>
                     </chrow>
                 </choicetable>
@@ -73,7 +73,7 @@
                     <fig id="fig_ryf_5w2_qpb">
                         <title>DITA Outputs</title>
                         <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20output.jpg"
+                            href="../../../IMAGES/dita%20output.jpg"
                             id="image_syf_5w2_qpb"/>
                     </fig>
                 </info>
@@ -87,7 +87,7 @@
                     <fig id="fig_w5l_xw2_qpb">
                         <title>WebHelp Template</title>
                         <image
-                            href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/website.jpg"
+                            href="../../../IMAGES/website.jpg"
                             id="image_x5l_xw2_qpb" height="400px" width="600"/>
                     </fig>
                 </info>

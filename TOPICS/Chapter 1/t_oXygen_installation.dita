@@ -11,8 +11,8 @@
                     <p>
                         <fig id="fig_hyd_xwx_ppb">
                             <title>oXygen Installation</title>
-                            <image href="../IMAGES/installation%20oxygen.jpg" id="image_iyd_xwx_ppb"
-                                height="150px" width="600px"/>
+                            <image href="../../IMAGES/installation%20oxygen.jpg"
+                                id="image_iyd_xwx_ppb" height="150px" width="600px"/>
                         </fig>
                     </p>
                 </fig> Run the installer and follow the instructions in the installation program.
@@ -27,14 +27,14 @@
                 access to recently used files and projects and to create new ones.</p><fig
                 id="fig_fmb_xkn_mpb">
                 <title>Welcome box</title>
-                <image href="../IMAGES/welcome%20box.jpg" width="600" height="400"
+                <image href="../../IMAGES/welcome%20box.jpg" width="600" height="400"
                     id="image_gmb_xkn_mpb"/>
             </fig><p>If you do not want it to be displayed every time you launch Oxygen XML Editor,
                 deselect the <b>Show at startup</b> option in the bottom-left corner of the dialog
                 box. To display it any time, go to <b>Help</b> → <b>Welcome</b>.</p><fig
                 id="fig_o32_51h_npb">
                 <title>Display Welcome box</title>
-                <image href="../IMAGES/Screenshot_13.jpg" width="650" height="100"
+                <image href="../../IMAGES/Screenshot_13.jpg" width="650" height="100"
                     id="image_p32_51h_npb"/>
             </fig></context>
     </taskbody>

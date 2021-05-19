@@ -65,7 +65,7 @@
         <example id="example_np5_rm3_npb">
             <fig id="fig_dcw_sm3_npb">
                 <title>Adding a picture</title>
-                <image href="../../IMAGES/picture_insert.jpg" id="image_ecw_sm3_npb"/>
+                <image href="../../../IMAGES/picture_insert.jpg" id="image_ecw_sm3_npb"/>
             </fig>
         </example>
         <example>
@@ -74,7 +74,7 @@
         <example id="example_egc_2m3_npb">
             <fig id="fig_d3h_mm3_npb">
                 <title>Moon</title>
-                <image href="../../IMAGES/moon.jpg.jpg" width="200" height="200"
+                <image href="../../../IMAGES/moon.jpg.jpg" width="200" height="200"
                     id="image_e3h_mm3_npb"/>
             </fig>
         </example>
@@ -92,7 +92,7 @@
                     format="html" scope="external">The type attribute</xref> for more detailed
                 information on values.<fig id="fig_zrn_tw3_npb">
                     <title>NOTES Attributes</title>
-                    <image href="../../IMAGES/notes%20attributes.jpg" id="image_asn_tw3_npb"
+                    <image href="../../../IMAGES/notes%20attributes.jpg" id="image_asn_tw3_npb"
                         width="700" height="300"/>
                 </fig></p>
             <p>Here are examples of <b>Notes</b></p>

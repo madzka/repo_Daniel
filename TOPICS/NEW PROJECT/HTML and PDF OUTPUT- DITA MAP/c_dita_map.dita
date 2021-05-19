@@ -22,7 +22,7 @@
             <fig id="fig_htt_2jy_ppb">
                 <title>DITA Map</title>
                 <image
-                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/Dita%20Map.jpg"
+                    href="../../../IMAGES/Dita%20Map.jpg"
                     id="image_itt_2jy_ppb"/>
             </fig>
         </p>
@@ -32,7 +32,7 @@
             <fig id="fig_qnh_xjy_ppb">
                 <title>DITA Maps</title>
                 <image
-                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20map%202.jpg"
+                    href="../../../IMAGES/dita%20map%202.jpg"
                     id="image_rnh_xjy_ppb"/>
             </fig>
         </p>
@@ -42,7 +42,7 @@
             </ph><fig id="fig_upg_gry_ppb">
                 <title>DITA Maps Manager</title>
                 <image
-                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20maps%20editor.jpg"
+                    href="../../../IMAGES/dita%20maps%20editor.jpg"
                     id="image_vpg_gry_ppb"/>
             </fig></p>
         <p>Choose whether you want to open the map in the <b>Editor</b> or in the DITA Maps Manager
@@ -69,10 +69,10 @@
                     <tbody>
                         <row>
                             <entry><image
-                                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/Project%20view.jpg"
+                                    href="../../../IMAGES/Project%20view.jpg"
                                     width="300px" height="300px" id="image_thg_zky_ppb"/></entry>
                             <entry><image
-                                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/DITA%20MAp%20view.jpg"
+                                    href="../../../IMAGES/DITA%20MAp%20view.jpg"
                                     width="300px" height="300px" id="image_sdm_1ly_ppb"/></entry>
                         </row>
                     </tbody>
@@ -86,7 +86,7 @@
         <p><ph>Here you see the screenshot of DITA Map ELEMENTS</ph><fig id="fig_unl_pjb_qpb">
                 <title>DITA Map ELEMENTS</title>
                 <image
-                    href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/DITA%20Map%20view%202.jpg"
+                    href="../../../IMAGES/DITA%20Map%20view%202.jpg"
                     id="image_vnl_pjb_qpb" width="650" height="300"/>
             </fig></p>
         <p><ph>This is the list of elements in DITA Map you can add</ph><ul id="ul_w1z_smy_ppb">
@@ -103,7 +103,7 @@
                     id="fig_nrr_jqb_qpb">
                     <title>DITA Map EXTENSION</title>
                     <image
-                        href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/dita%20map%20extension.jpg"
+                        href="../../../IMAGES/dita%20map%20extension.jpg"
                         id="image_orr_jqb_qpb"/>
                 </fig></note>
         </p>
@@ -134,11 +134,11 @@
                         <tbody>
                             <row>
                                 <entry><image
-                                        href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/drag.jpg"
+                                        href="../../../IMAGES/drag.jpg"
                                         width="400px" height="300px" id="image_cw2_35c_qpb"
                                     /></entry>
                                 <entry><image
-                                        href="../../../madzka.github.io/GitHub_Publishing_Documentation/docs-about-the-docs/IMAGES/drop.jpg"
+                                        href="../../../IMAGES/drop.jpg"
                                         width="400px" height="300px" id="image_c4n_j5c_qpb"
                                     /></entry>
                             </row>
